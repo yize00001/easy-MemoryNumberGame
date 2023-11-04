@@ -1,2 +1,2 @@
 
-A simple memory game
+A simple memory game using C++ compilation.
